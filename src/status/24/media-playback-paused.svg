@@ -39,14 +39,13 @@
         }
     </style>
   <g
-     transform="translate(1,1)"
-     id="g5"
-     style="opacity:0.35">
+     transform="matrix(0.95454545,0,0,0.95454545,1.5,1.5000001)"
+     id="g5">
     <g
        id="media-playback-paused"
-       transform="translate(48) translate(-24,0)">
+       transform="translate(24)">
       <path
-         d="m-24 0h22v22h-22z"
+         d="M -24,0 H -2 V 22 H -24 Z"
          fill="none"
          id="path1" />
       <g
@@ -55,13 +54,13 @@
          fill-rule="evenodd"
          id="g4">
         <path
-           d="m-16 8h2v6h-2z"
+           d="m -16,8 h 2 v 6 h -2 z"
            id="path2" />
         <path
-           d="m-12 8h2v6h-2z"
+           d="m -12,8 h 2 v 6 h -2 z"
            id="path3" />
         <path
-           d="m-13 3a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0 -8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1 -7 7 7 7 0 0 1 -7-7 7 7 0 0 1 7-7z"
+           d="m -13,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,1 a 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 z"
            id="path4" />
       </g>
     </g>

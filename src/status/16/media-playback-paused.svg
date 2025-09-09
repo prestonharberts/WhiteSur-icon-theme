@@ -37,14 +37,14 @@
   </defs>
   <path
      class="ColorScheme-Text"
-     d="m5 5v6h1v-6zm5 0v6h1v-6z"
+     d="m 5.1875,5.1875 v 5.625 H 6.125 v -5.625 z m 4.6875,0 v 5.625 h 0.9375 v -5.625 z"
      fill="currentColor"
      id="path1"
-     style="opacity:0.35" />
+     style="stroke-width:0.9375" />
   <path
      class="ColorScheme-Text"
-     d="m8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z"
+     d="M 8,0.5 A 7.5,7.5 0 0 0 0.5,8 7.5,7.5 0 0 0 8,15.5 7.5,7.5 0 0 0 15.5,8 7.5,7.5 0 0 0 8,0.5 Z M 8,1.4375 A 6.5625,6.5625 0 0 1 14.5625,8 6.5625,6.5625 0 0 1 8,14.5625 6.5625,6.5625 0 0 1 1.4375,8 6.5625,6.5625 0 0 1 8,1.4375 Z"
      fill="currentColor"
      id="path2"
-     style="opacity:0.35" />
+     style="stroke-width:0.9375" />
 </svg>
