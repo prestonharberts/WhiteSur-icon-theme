@@ -40,11 +40,11 @@
      d="m 5.1875,5.1875 v 5.625 H 6.125 v -5.625 z m 4.6875,0 v 5.625 h 0.9375 v -5.625 z"
      fill="currentColor"
      id="path1"
-     style="stroke-width:0.9375" />
+     style="stroke-width:0.9375;opacity:0.35" />
   <path
      class="ColorScheme-Text"
      d="M 8,0.5 A 7.5,7.5 0 0 0 0.5,8 7.5,7.5 0 0 0 8,15.5 7.5,7.5 0 0 0 15.5,8 7.5,7.5 0 0 0 8,0.5 Z M 8,1.4375 A 6.5625,6.5625 0 0 1 14.5625,8 6.5625,6.5625 0 0 1 8,14.5625 6.5625,6.5625 0 0 1 1.4375,8 6.5625,6.5625 0 0 1 8,1.4375 Z"
      fill="currentColor"
      id="path2"
-     style="stroke-width:0.9375" />
+     style="stroke-width:0.9375;opacity:0.35" />
 </svg>

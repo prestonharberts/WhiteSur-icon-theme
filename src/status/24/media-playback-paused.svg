@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="24.416667"
      inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:cy="12.040955"
      inkscape:window-width="1296"
      inkscape:window-height="800"
      inkscape:window-x="216"
@@ -40,7 +40,8 @@
     </style>
   <g
      transform="matrix(0.95454545,0,0,0.95454545,1.5,1.5000001)"
-     id="g5">
+     id="g5"
+     style="opacity:0.35">
     <g
        id="media-playback-paused"
        transform="translate(24)">

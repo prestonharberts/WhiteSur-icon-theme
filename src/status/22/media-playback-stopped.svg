@@ -20,7 +20,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="26.636364"
      inkscape:cx="11"
-     inkscape:cy="11"
+     inkscape:cy="11.037543"
      inkscape:window-width="1296"
      inkscape:window-height="800"
      inkscape:window-x="216"
@@ -40,7 +40,7 @@
      d="M 11,3.5 A 7.5,7.5 0 0 0 3.5,11 7.5,7.5 0 0 0 11,18.5 7.5,7.5 0 0 0 18.5,11 7.5,7.5 0 0 0 11,3.5 Z m 0,0.9375 A 6.5625,6.5625 0 0 1 17.5625,11 6.5625,6.5625 0 0 1 11,17.5625 6.5625,6.5625 0 0 1 4.4375,11 6.5625,6.5625 0 0 1 11,4.4375 Z"
      fill="currentColor"
      id="path1"
-     style="stroke-width:0.9375" />
+     style="stroke-width:0.9375;opacity:0.35" />
   <rect
      class="ColorScheme-Text"
      x="8.1875"
@@ -51,5 +51,5 @@
      ry="0.9375"
      fill="currentColor"
      id="rect1"
-     style="stroke-width:0.9375" />
+     style="stroke-width:0.9375;opacity:0.35" />
 </svg>
