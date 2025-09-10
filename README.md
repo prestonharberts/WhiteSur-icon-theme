@@ -1,3 +1,20 @@
+This repo contains some personal changes I made to some icons and the OpenSUSE logo for my status bar.
+
+Install with `./install.sh --alternative`.
+
+My version:
+
+<img width="963" height="117" alt="image" src="https://github.com/user-attachments/assets/061ab5e6-abd2-4478-a709-81b7ea666cf2" />
+
+<img width="964" height="118" alt="image" src="https://github.com/user-attachments/assets/17a5e7c0-4dcb-4383-b69d-91635f76ae7c" />
+
+<img width="964" height="118" alt="image" src="https://github.com/user-attachments/assets/3adbf4d1-8fa3-4fe7-872f-826f2f89ef39" />
+
+Original:
+
+<img width="964" height="118" alt="image" src="https://github.com/user-attachments/assets/a442cfdd-6cdb-4f9e-92de-a27c731e2d71" />
+
+
 <img src="logo.png" alt="Logo" align="right" /> WhiteSur Icon Theme
 ======
 
