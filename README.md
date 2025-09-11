@@ -2,7 +2,7 @@ This repo contains some personal changes I made to some icons and the OpenSUSE l
 
 Install with `./install.sh --alternative`.
 
-My version:
+## My version:
 
 <img width="963" height="117" alt="image" src="https://github.com/user-attachments/assets/061ab5e6-abd2-4478-a709-81b7ea666cf2" />
 
@@ -10,9 +10,13 @@ My version:
 
 <img width="964" height="118" alt="image" src="https://github.com/user-attachments/assets/3adbf4d1-8fa3-4fe7-872f-826f2f89ef39" />
 
-Original:
+## Original:
 
 <img width="964" height="118" alt="image" src="https://github.com/user-attachments/assets/a442cfdd-6cdb-4f9e-92de-a27c731e2d71" />
+
+<img width="963" height="117" alt="image" src="https://github.com/user-attachments/assets/3bdd8b2a-ab18-4ca8-b060-594782cddad0" />
+
+<img width="964" height="118" alt="image" src="https://github.com/user-attachments/assets/28929251-d6c3-45c5-8837-39ae14173645" />
 
 
 <img src="logo.png" alt="Logo" align="right" /> WhiteSur Icon Theme
